@@ -1,0 +1,6 @@
+english_label,count,median,mean,std
+Nativo o bilingue (ILR 5),5,130000,115000.0,37080.992435478314
+Avanzado: Puedo conversar y escribir sin problemas sobre cualquier tema (ILR 4),32,80000,86912.5,28635.864609532633
+Profesional: Puedo interactuar profesionalmente con colegas y clientes (ILR 3),27,60000,60737.03703703704,15724.16435710797
+Limitado: Me doy a entender pero con errores de gramática (ILR 2),8,50000,56250.0,29596.090475408593
+Elemental: Sé lo básico para sobrevivir (ILR 1),2,16500,16500.0,23334.52377915607
