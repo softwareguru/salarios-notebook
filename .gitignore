@@ -1,4 +1,5 @@
 .venv
 .ipynb_checkpoints
 tablas/*.csv
+custom
 
