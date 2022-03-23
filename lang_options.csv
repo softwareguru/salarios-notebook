@@ -3,21 +3,17 @@ bash,Bash
 csharp,C#
 clang,C/C++
 cobol,COBOL
-dart,Dart
 delphi,Delphi
 elixir,Elixir
-assm,Ensamblador
 go,Go
 groovy,Groovy
 java,Java
 js,JavaScript
 kotlin,Kotlin
-objc,Objective C
 perl,Perl
 php,PHP
 plsql,PL/SQL
 python,Python
-rlang,R
 ruby,Ruby
 rust,Rust
 scala,Scala

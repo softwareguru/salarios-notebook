@@ -4,21 +4,24 @@ req,Análisis de requerimientos
 arq,Arquitectura y diseño de sistemas
 bi,Business Intelligence
 cap,Capacitación y evangelización
-dsc,Ciencia de datos
-devops,"Gestión de infraestructura (SysOps, DevOps)"
-deng,Ingeniería de datos
+datascience,Ciencia de datos
 spi,Coaching y mejora de procesos
 cons,Consultoría de negocio
-dir,Dirección / Estrategia
+prog,"Desarrollo back end"
+mobile,Desarrollo mobile
+front,Desarrollo web
+devrel,Dev relations
+dir,"Dirección / Estrategia"
 doc,Docencia
-uxd,User Experience Design
+techwrite,"Documentación / Technical writing"
+infra,"Gestión de infraestructura (SysOps, DevOps)"
 erp,Implantación de sistemas empresariales (ERPs y similar)
-prog,"Programación back-end (procesamiento, lógica, datos)"
-front,Programación front-end
-pm,Project management / Coordinación
-techsales,Preventa / Tech sales
+dataeng,Ingeniería de datos
+pm,"Project management / Coordinación"
+iot,"Robótica / IoT"
+techsales,"Preventa / Tech sales"
 infosec,Seguridad de información
 soporte,Soporte técnico
 test,Testing
+uxd,User Experience Design
 ventas,Venta y desarrollo de negocios
-techwrite,Documentación / Technical writing
